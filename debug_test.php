@@ -23,6 +23,11 @@
         <form method="post" action="" >
             <label for="navn">Navn:</label>
             <input type="text" name="navn" />
+            
+            <label for="alder">Alder:</label>
+            <input type="text" name="alder" />
+                
+            
             <input type="submit" name="submit" value="Goddag">
          </form>
     </body>
